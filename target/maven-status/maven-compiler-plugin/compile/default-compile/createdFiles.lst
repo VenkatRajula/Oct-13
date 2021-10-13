@@ -1,0 +1,16 @@
+com/bytesizebook/data/impl/AutomobilePrimary.class
+com/bytesizebook/data/impl/User.class
+com/bytesizebook/data/impl/Client.class
+com/bytesizebook/data/impl/Item.class
+com/bytesizebook/data/impl/ItemQualified.class
+com/bytesizebook/data/FirstLast.class
+com/bytesizebook/service/ProductService.class
+com/bytesizebook/data/Hobby.class
+com/bytesizebook/data/impl/AutomobileQualified.class
+com/bytesizebook/data/impl/Automobile.class
+com/bytesizebook/SimpleBean.class
+com/bytesizebook/data/impl/NameImpl.class
+com/bytesizebook/service/impl/NewCarOwner.class
+com/bytesizebook/data/impl/HobbyImpl.class
+com/bytesizebook/data/DescriptionNumber.class
+com/bytesizebook/data/Name.class
